@@ -1,3 +1,5 @@
+<b>Explanation of high 'World Happiness Index' for Taiwan, Singapore amongst other developed Asian countries </b>
+
 The purpose of this study is to determine what factors cause Singapore and Taiwan to have the highest 'World Happiness Index' score amongst developed East Asian countries (inclusive of Taiwan, Singapore, South Korea, Japan, Hong Kong and China). Through personal observations, I developed an interest in this topic (my general impression agrees with the WHI data) and wanted to explore deeper into what the route causes are.
 
 Due to political reasons (global relations with China) it's difficult to find world datasets on development and equality that are inclusive of Taiwan. For example most of the World Bank development indicators do not include data on Taiwan even under the estimators for China. This led me to become interested in producing some of these indicator comparisons myself and see whether these can be used to draw any on why Taiwan has such a high WHI score (within Asia). 
